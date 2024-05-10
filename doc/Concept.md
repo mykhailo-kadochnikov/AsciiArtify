@@ -11,10 +11,12 @@
 Considering the risks that may arise with Docker licensing and considering the possibility of using an alternative to Podman, only one Kind provides solid Podman support. Thus, I recommend Kind as a further development tool of AsciiArtify.  
 
 ## Setup demo
-![minicube create cluster](https://asciinema.org/a/eVlWBYTsbUs81dS3exrAJ7fI1)
+![minicube create cluster]
+https://asciinema.org/a/eVlWBYTsbUs81dS3exrAJ7fI1
 
 
-![kind create cluster](https://asciinema.org/a/uKBi8gLjBbUMBi6vtbzxXLY3Y)
+![kind create cluster]
+https://asciinema.org/a/uKBi8gLjBbUMBi6vtbzxXLY3Y
 
 1. Install kind on a local machine
 2. Create a Kubernetes cluster using `kind create cluster` command
